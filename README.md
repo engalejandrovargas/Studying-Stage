@@ -1,4 +1,6 @@
-# Studyng-Stage
+# Studying-Stage
 Strings and Variables
 
 Here I am posting the exercises that I did to learn =)
+
+17.1.2021 Strings and variables from IBM course in Coursera
