@@ -11,5 +11,6 @@ Here I am posting the exercises that I did to learn =)
 | 18.1.2021  | Dictionaries          | IBM course in Coursera 
 | 18.1.2021  | Sets                  | IBM course in Coursera 
 | 18.1.2021  | Conditions            | IBM course in Coursera 
+| 18.1.2021  | Loops                 | IBM course in Coursera 
 
  
