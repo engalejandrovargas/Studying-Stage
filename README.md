@@ -16,5 +16,6 @@ Here I am posting the exercises that I did to learn =)
 | 19.1.2021  | Classes               | IBM course in Coursera 
 | 19.1.2021  | Exceptions            | IBM course in Coursera 
 | 19.1.2021  | Read files            | IBM course in Coursera 
+| 19.1.2021  | Write files           | IBM course in Coursera 
 
  
