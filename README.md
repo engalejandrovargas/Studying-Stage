@@ -22,3 +22,4 @@ Here I am posting the exercises that I did to learn =)
 | 20.1.2021  | Request HTTP          | IBM course in Coursera 
 | 22.1.2021  | Connecting DB         | IBM course in Coursera 
 | 22.1.2021  | Using Pandas          | IBM course in Coursera 
+| 22.1.2021  | MagicSQL              | IBM course in Coursera 
