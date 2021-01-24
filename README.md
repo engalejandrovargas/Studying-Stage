@@ -25,4 +25,5 @@ Here I am posting the exercises that I did to learn =)
 | 22.1.2021  | MagicSQL              | IBM course in Coursera 
 | 23.1.2021  | Analazying Data       | IBM course in Coursera 
 | 23.1.2021  | Querying RealData     | IBM course in Coursera 
+| 24.1.2021  | Python Introduction   | IBM course in Coursera 
 
