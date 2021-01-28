@@ -28,4 +28,5 @@ Here I am posting the exercises that I did to learn =)
 | 24.1.2021  | Python Introduction   | IBM course in Coursera 
 | 24.1.2021  | Data Wrangling        | IBM course in Coursera 
 | 24.1.2021  | Exploratory-data      | IBM course in Coursera 
+| 28.1.2021  | Introduction-to-Matplotlib      | IBM course in Coursera 
 
