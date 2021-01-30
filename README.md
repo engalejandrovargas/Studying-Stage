@@ -31,3 +31,5 @@ Here I am posting the exercises that I did to learn =)
 | 28.1.2021  | Introduction-to-Matplotlib      | IBM course in Coursera 
 | 28.1.2021  | Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble     | IBM course in Coursera 
 | 30.1.2021  | Area-Plots-Histograms-and-Bar-Charts     | IBM course in Coursera 
+| 30.1.2021  | Pie-Box-Scatter-Bubble-Plots    | IBM course in Coursera 
+
