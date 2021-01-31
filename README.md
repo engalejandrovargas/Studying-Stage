@@ -33,5 +33,7 @@ Here I am posting the exercises that I did to learn =)
 | 30.1.2021  | Area-Plots-Histograms-and-Bar-Charts     | IBM course in Coursera 
 | 30.1.2021  | Pie-Box-Scatter-Bubble-Plots    | IBM course in Coursera 
 | 31.1.2021  | Waffle-Charts-Word-Clouds-Regression Plots    | IBM course in Coursera 
+| 31.1.2021  | Maps    | IBM course in Coursera 
+
 
 
