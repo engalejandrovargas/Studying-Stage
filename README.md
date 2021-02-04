@@ -35,7 +35,9 @@ Here I am posting the exercises that I did to learn =)
 | 31.1.2021  | Waffle-Charts-Word-Clouds-Regression Plots    | IBM course in Coursera 
 | 02.2.2021  | Regression Simple   | IBM course in Coursera 
 | 02.2.2021  | Regression Multiple  | IBM course in Coursera 
-| 31.1.2021  | Maps    | IBM course in Coursera 
+| 02.2.2021  | Maps    | IBM course in Coursera 
+| 04.2.2021  | Polynomial-Regression    | IBM course in Coursera 
+
 
 
 
