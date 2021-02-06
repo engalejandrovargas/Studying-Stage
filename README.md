@@ -38,11 +38,7 @@ Here I am posting the exercises that I did to learn =)
 | 02.2.2021  | Maps    | IBM course in Coursera 
 | 04.2.2021  | Polynomial-Regression    | IBM course in Coursera 
 | 04.2.2021  | None Linear Regression    | IBM course in Coursera 
-| 04.2.2021  | K Nearest neighbors    | IBM course in Coursera
-
-
-
-
-
+| 06.2.2021  | K Nearest neighbors    | IBM course in Coursera
+| 06.2.2021  | Decision Trees drugs    | IBM course in Coursera
 
 
