@@ -41,6 +41,10 @@ Here I am posting the exercises that I did to learn =)
 | 06.2.2021  | K Nearest neighbors    | IBM course in Coursera
 | 06.2.2021  | Decision Trees drugs    | IBM course in Coursera
 | 07.2.2021  | Logistic-Regression    | IBM course in Coursera
+| 07.2.2021  | Clustering K-Means    | IBM course in Coursera
+
+
+
 
 
 
