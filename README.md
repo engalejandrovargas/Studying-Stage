@@ -45,6 +45,7 @@ Here I am posting the exercises that I did to learn =)
 | 07.2.2021  | Clustering Hierarchical    | IBM course in Coursera
 | 07.2.2021  | Clustering DBSCAN    | IBM course in Coursera
 | 09.2.2021  | Recomendation System - Movies   | IBM course in Coursera
+| 13.2.2021  | Foursquare-API   | IBM course in Coursera
 
 
 
