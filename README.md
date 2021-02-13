@@ -47,9 +47,5 @@ Here I am posting the exercises that I did to learn =)
 | 09.2.2021  | Recomendation System - Movies   | IBM course in Coursera
 | 13.2.2021  | Foursquare-API   | IBM course in Coursera
 | 13.2.2021  | Clustering   | IBM course in Coursera
-
-
-
-
-
+| 13.2.2021  | Neighborhoods   | IBM course in Coursera
 
